@@ -1,0 +1,9 @@
+﻿  Building 'svm' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  svm.cpp
+  util.cpp
+  Generating Code...
+  svm.vcxproj -> C:\Users\sariaki\Documents\code\game hacking\svm\x64\Debug\svm.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\sariaki\Documents\code\game hacking\svm\x64\Debug\svm.sys
+  
+  Driver is 'Universal'.
