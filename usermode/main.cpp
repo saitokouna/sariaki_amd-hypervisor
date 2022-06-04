@@ -20,8 +20,8 @@ std::string get_vendor_id()
 
 int main()
 {
-	std::printf("[§] initializing\n");
+    std::printf("[§] initializing\n");
     std::printf("[§] hypervisor vendor -> %s\n", get_vendor_id());
     std::getchar();
-	return 0;
+    return 0;
 }

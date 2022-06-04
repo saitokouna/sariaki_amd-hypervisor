@@ -1,6 +1,4 @@
 #pragma once
-#include <pshpack1.h>
-#include <poppack.h>
 #include <cstdarg>
 #pragma pack(push, 1)
 
