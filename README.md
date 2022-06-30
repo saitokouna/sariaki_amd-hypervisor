@@ -9,6 +9,7 @@
 - [amd's nested paging whitepaper](http://developer.amd.com/wordpress/media/2012/10/NPT-WP-1%201-final-TM.pdf) 
 - [tandasat's hypervisor](https://github.com/tandasat/SimpleSvm) 
 - [not-matthias's hypervisor](https://github.com/not-matthias/amd_hypervisor) 
+- [medievalghoul's hypervisor](https://github.com/medievalghoul/krakensvm-mg) 
 - [daax's blog](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development/) 
 
 ### tools:
